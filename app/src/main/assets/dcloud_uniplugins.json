@@ -1,0 +1,14 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Xd-serialPort",
+          "class": "com.example.xd_serialport.XdSerialPort"
+        }
+      ]
+    }
+  ]
+}
